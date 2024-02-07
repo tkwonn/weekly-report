@@ -1,5 +1,7 @@
 ## Weekly Report
 
+Recursion Roadmap: https://recursionist.io/roadmap
+
 ### Milestone 1
 
 Backend Project 2, 3 
